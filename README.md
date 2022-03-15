@@ -1,2 +1,4 @@
-# my-blog
+# 32 Thoughts
 My thoughts on shits 
+
+
